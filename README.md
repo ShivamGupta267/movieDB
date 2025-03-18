@@ -13,5 +13,6 @@ Using **OMDb API** instead.
 - React + Vite
 - Fetch API
 - OMDb API
-  
+
+#screenshot
 ![Screenshot)](https://github.com/user-attachments/assets/49e95829-df99-4303-9b65-59722ad39006)
