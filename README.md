@@ -9,10 +9,8 @@ Using **OMDb API** instead.
 2. Run `npm install`  
 3. Start the project using `npm run dev`
 
-## Tech Stack:
+## Tech Stack & screenshot
 - React + Vite
 - Fetch API
 - OMDb API
-
-#screenshot
 ![Screenshot)](https://github.com/user-attachments/assets/49e95829-df99-4303-9b65-59722ad39006)
